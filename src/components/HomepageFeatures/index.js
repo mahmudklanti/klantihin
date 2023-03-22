@@ -4,22 +4,20 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'লেকচারসমূহ',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          ফিজিক্স এর চ্যাপ্টার সমূহের বিভিন্ন টপিক এবং বেসিক গুলো সহজ ভাবে ভিডিও ক্লাসের মাধ্যমে বোঝানো হয়েছে ।
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'লাইভ ব্যাচ',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          এখানে বিভিন্ন ব্যাচে ইন্টার ১ম/২য় বর্ষের ফিজিক্স পড়ানো হয়ে থাকে । ব্যাচে ক্লাস করার জন্য আমাদের সাথে আজই যোগাযোগ করুন ।
       </>
     ),
   },

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ক্লান্তিহীন এডু',
+  title: 'বেসিক এইড প্লাস',
   tagline: 'পড়লে বুঝে পড়, না বুঝলে ঘুমাও',
   favicon: 'img/favicon.ico',
 
@@ -64,10 +64,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ক্লান্তিহীন এডু',
+        title: 'বেসিক এইড প্লাস',
         logo: {
-          alt: 'ক্লান্তিহীন এডু',
-          src: 'img/logo.webp',
+          alt: 'বেসিক এইড প্লাস',
+          src: 'img/logo.jpg',
         },
         items: [
           {
@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'ব্লগ', position: 'left'},
           {
-            href: 'https://youtube.com/',
+            href: 'https://youtube.com/@basic_aidplus',
             label: 'ইউটিউব',
             position: 'right',
           },
@@ -101,7 +101,7 @@ const config = {
             items: [
               {
                 label: 'ইউটিউব',
-                href: 'https://youtube.com',
+                href: 'https://youtube.com/@basic_aidplus',
               },
               {
                 label: 'Facebook',
@@ -122,12 +122,12 @@ const config = {
               },
               {
                 label: 'ইউটিউব',
-                href: 'https://youtube.com',
+                href: 'https://youtube.com/@basic_aidplus',
               },
             ],
           },
         ],
-        copyright: `স্বত্ব © ${new Date().getFullYear()} ক্লান্তিহীন এডু. পড়লে বুঝে পড়, না বুঝলে ঘুমাও.`,
+        copyright: `স্বত্ব © ${new Date().getFullYear()} বেসিক এইড প্লাস. পড়লে বুঝে পড়, না বুঝলে ঘুমাও.`,
       },
       prism: {
         theme: lightCodeTheme,

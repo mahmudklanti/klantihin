@@ -28,3 +28,29 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+@font-face {
+  font-family: SolaimanLipi;
+  src: local('SolaimanLipi'),
+  url('../fonts/solaimanlipi.woff') format('woff'),
+  url('../fonts/solaimanlipi.woff2') format('woff2');
+}
+
+body {
+  font-family: "SolaimanLipi", "Open Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+b,
+i,
+div,
+a{
+  font-family: "SolaimanLipi", "Open Sans", sans-serif;
+}
