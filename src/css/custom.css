@@ -54,3 +54,8 @@ div,
 a{
   font-family: "SolaimanLipi", "Open Sans", sans-serif;
 }
+
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
